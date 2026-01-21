@@ -1,55 +1,36 @@
-📝 Project Description 
-This project represents the final assessment for the CCNA course. It focuses on designing, configuring, and testing a small-to-medium scale network using Cisco devices while applying CCNA networking principles.
+📝 Project Description
+This project constitutes the final practical assessment for the Cisco Certified Network Associate (CCNA) course. It involves the design, configuration, and validation of a structured computer network using Cisco networking devices, in accordance with CCNA standards and best practices.
+📌 Key Features
 
-📌 Key Features 
-📝 Project Description (Add This)
+-Structured logical and physical network design
 
-This project represents the final assessment for the CCNA course. It focuses on designing, configuring, and testing a small-to-medium scale network using Cisco devices while applying CCNA networking principles.
+-Correct implementation of IPv4 addressing and subnetting
 
-📌 Key Features (Add This)
+-Configuration of VLANs and inter-VLAN routing
 
-Logical and physical network design
+-Application of basic network security using Access Control Lists (ACLs)
 
-Proper IP addressing and subnetting
+-Comprehensive end-to-end connectivity testing
+🔍 Learning Outcomes
 
-VLAN implementation and inter-VLAN routing
+-Gained hands-on experience in designing scalable network topologies
 
-Basic security using ACLs
+-Developed proficiency in configuring Cisco routers and switches
 
-End-to-end connectivity verification
+-Improved troubleshooting skills for identifying and resolving network issues
 
-🔍 What I Learned (Add This)
+-Applied theoretical CCNA concepts in a practical environment
 
-How to design scalable network topologies
+🧪 Testing and Verification
 
-Practical configuration of Cisco routers and switches
+-Network functionality was verified using standard diagnostic tools and commands, including:
 
-Troubleshooting network connectivity issues
+-ping and traceroute
 
-Applying CCNA concepts in a real-world scenario
+-Cisco IOS verification commands
 
-🧪 Testing Methods (Add This)
+-Simulation-based testing within Cisco Packet Tracer
 
-Ping and traceroute between devices
+⚠️ Disclaimer
 
-Verification using Cisco CLI commands
-
-Simulation testing in Packet Tracer
-
-⚠️ Disclaimer (Add This)
-
-This project was created for educational purposes as part of the CCNA curriculum and is not intended for production use.
-🔍 What I Learned 
-How to design scalable network topologies
-Practical configuration of Cisco routers and switches
-Troubleshooting network connectivity issues
-Applying CCNA concepts in a real-world scenario
-
-🧪 Testing Methods 
-Ping and traceroute between devices
-Verification using Cisco CLI commands
-Simulation testing in Packet Tracer
-
-⚠️ Disclaimer 
-
-This project was created for educational purposes as part of the CCNA curriculum and is not intended for production use.
+-This project was developed solely for educational purposes as part of the CCNA curriculum and is not intended for deployment in a production environment.
